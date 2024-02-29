@@ -1,0 +1,21 @@
+.class-text,
+.class-two-text {
+    background-color: rgb(185, 133, 154);
+    color: green;
+    font: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.class-two-text {
+    font-size: 24px;
+}
+
+#number-2 {
+color: blue;
+font-size: 36px;
+}
+
+#number-4 {
+    background-color: rgb(116, 195, 116);
+    font-size: 24px;
+    font-weight: 700;
+}
